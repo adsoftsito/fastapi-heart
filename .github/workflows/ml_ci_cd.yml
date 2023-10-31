@@ -15,4 +15,3 @@ jobs:
       run: python --version
     - name: show dir
       run: ls -la
-      run: python --version
